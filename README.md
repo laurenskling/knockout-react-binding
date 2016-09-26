@@ -2,4 +2,4 @@
 
 usage:
 
-<div data-bind="react: Component, props: { hello: 'world' }"></div>
+```<div data-bind="react: Component, props: { hello: 'world' }"></div>```
